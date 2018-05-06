@@ -1,2 +1,5 @@
-# Personnaliser-backgroun
-Personnaliser background et recevoir des infos (NY Api) dans un adresse donnée avec Ajax 
+# Moving planner app-Ajax
+Loading Streetview
+NYT Implementation
+
+Use the NYTIMES and Streetview API to build a moving planner app with ajax functions
